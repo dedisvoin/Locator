@@ -1,0 +1,12 @@
+{
+   "name": "PyLs",
+   "path": "Pyls",
+   "out_path": "versions",
+   "description": "Local python server",
+   "version": "0.0.1",
+   "version_auto": true,
+   "version_signature": "dev",
+   "what_new": {
+      "1": "Add basic file sended"
+   }
+}
